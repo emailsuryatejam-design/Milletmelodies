@@ -107,10 +107,10 @@ export const metadata: Metadata = {
   publisher: 'Millet Melodies',
   category: 'Food & Restaurant',
 
-  /* Verification placeholders — fill with real IDs when available */
-  // verification: {
-  //   google: 'your-google-site-verification-id',
-  // },
+  /* Google Search Console verification */
+  verification: {
+    google: 'no9C6oChZ4WJAlI-jh_0fcivL481YJ42MXCu5j5APiQ',
+  },
 };
 
 /* Viewport: mobile-first, theme color */
