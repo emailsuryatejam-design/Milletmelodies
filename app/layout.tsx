@@ -17,7 +17,7 @@ const lato = Lato({
 
 /* ── SEO: Enhanced Metadata per SEO Strategy Guide ── */
 export const metadata: Metadata = {
-  metadataBase: new URL('https://milletmillodies.com'),
+  metadataBase: new URL('https://milletmelodies.com'),
 
   /* Title tag: primary keyword near beginning, brand at end, <60 chars */
   title: {
@@ -59,7 +59,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_IN',
-    url: 'https://milletmillodies.com',
+    url: 'https://milletmelodies.com',
     siteName: 'Millet Melodies',
     title: 'Millet Breakfast & Catering Hyderabad | Millet Melodies',
     description:
@@ -98,7 +98,7 @@ export const metadata: Metadata = {
 
   /* Canonical */
   alternates: {
-    canonical: 'https://milletmillodies.com',
+    canonical: 'https://milletmelodies.com',
   },
 
   /* Additional meta */
@@ -133,13 +133,13 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               '@type': 'Restaurant',
               name: 'Millet Melodies',
               alternateName: 'Milletmillodies',
-              url: 'https://milletmillodies.com',
-              logo: 'https://milletmillodies.com/logo.png',
-              image: 'https://milletmillodies.com/og-image.png',
+              url: 'https://milletmelodies.com',
+              logo: 'https://milletmelodies.com/logo.png',
+              image: 'https://milletmelodies.com/og-image.png',
               description:
                 'Authentic Telangana millet breakfast — Addaku Idly, millet dosa, traditional podi, pure ghee. Healthy morning tiffin rooted in village traditions. Catering for weddings & events.',
               telephone: '+917075927006',
-              email: 'hello@milletmillodies.com',
+              email: 'hello@milletmelodies.com',
               address: {
                 '@type': 'PostalAddress',
                 streetAddress: 'PLOT NO 48, Miyapur Rd, opp. VNR Vignana Jyothi Engineering College',
@@ -197,7 +197,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               '@type': 'WebSite',
               name: 'Millet Melodies',
               alternateName: 'Milletmillodies',
-              url: 'https://milletmillodies.com',
+              url: 'https://milletmelodies.com',
             }),
           }}
         />
@@ -291,7 +291,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                   '@type': 'ListItem',
                   position: 1,
                   name: 'Home',
-                  item: 'https://milletmillodies.com',
+                  item: 'https://milletmelodies.com',
                 },
               ],
             }),

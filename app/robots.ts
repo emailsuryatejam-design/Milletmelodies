@@ -9,7 +9,7 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ['/api/', '/_next/', '/admin/'],
       },
     ],
-    sitemap: 'https://milletmillodies.com/sitemap.xml',
-    host: 'https://milletmillodies.com',
+    sitemap: 'https://milletmelodies.com/sitemap.xml',
+    host: 'https://milletmelodies.com',
   };
 }

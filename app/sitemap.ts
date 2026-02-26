@@ -1,6 +1,6 @@
 import type { MetadataRoute } from 'next';
 
-const BASE_URL = 'https://milletmillodies.com';
+const BASE_URL = 'https://milletmelodies.com';
 
 const blogSlugs = [
   'millet-breakfast-benefits',
