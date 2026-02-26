@@ -1,26 +1,45 @@
 {
-  "businessName": "Milletmillodies",
+  "businessName": "Nellai Thati Bellam Coffee",
+  "brandName": "Millet Melodies",
   "tagline": "Telangana's Millet Tiffin Trail",
   "description": "Authentic Telangana millet breakfast — Addaku Idly, millet dosa, traditional podi, pure ghee. Healthy morning tiffin rooted in village traditions.",
-  "phone": "+91-XXXXXXXXXX",
-  "whatsapp": "+91-XXXXXXXXXX",
+  "phone": "+917075927006",
+  "whatsapp": "+917075927006",
   "email": "hello@milletmillodies.com",
+  "website": "https://thatibellamcoffee.com",
   "address": {
-    "street": "",
-    "area": "",
+    "street": "PLOT NO 48, Miyapur Rd",
+    "landmark": "opp. VNR Vignana Jyothi Engineering College",
+    "area": "Bachupally",
     "city": "Hyderabad",
     "state": "Telangana",
-    "pincode": "500001",
+    "pincode": "500090",
     "country": "India"
   },
   "hours": {
-    "weekday": "6:00 AM – 11:00 AM",
-    "weekend": "6:00 AM – 12:00 PM"
+    "weekday": "6:00 AM – 11:00 PM",
+    "weekend": "6:00 AM – 12:00 AM"
   },
+  "hoursDetailed": {
+    "monday": "06:00-23:00",
+    "tuesday": "06:00-23:00",
+    "wednesday": "06:00-23:00",
+    "thursday": "06:00-23:00",
+    "friday": "06:00-23:00",
+    "saturday": "06:00-00:00",
+    "sunday": "06:00-00:00"
+  },
+  "rating": 4.1,
+  "reviewCount": 823,
+  "priceRange": "₹1–200",
   "social": {
-    "instagram": "https://instagram.com/milletmillodies",
+    "instagram": "https://instagram.com/nellai_thatibellam_coffee",
     "facebook": "https://facebook.com/milletmillodies",
-    "google": "https://share.google/vVjuZZCJMK2esdGee"
+    "google": "https://share.google/QG96SxToYcXfVqQxI"
+  },
+  "geo": {
+    "latitude": 17.4933,
+    "longitude": 78.3914
   },
   "originStory": "Started with Nellai Thatibellam (palm jaggery) tea, then expanded into millet-based tiffins rooted in Telangana village traditions.",
   "brandFeel": ["Telangana village", "homely", "earthy", "nostalgic", "traditional", "eco-friendly", "healthy", "millets", "pure ghee", "morning tiffin aroma"]
