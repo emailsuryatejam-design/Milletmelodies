@@ -1,0 +1,27 @@
+{
+  "businessName": "Milletmillodies",
+  "tagline": "Telangana's Millet Tiffin Trail",
+  "description": "Authentic Telangana millet breakfast — Addaku Idly, millet dosa, traditional podi, pure ghee. Healthy morning tiffin rooted in village traditions.",
+  "phone": "+91-XXXXXXXXXX",
+  "whatsapp": "+91-XXXXXXXXXX",
+  "email": "hello@milletmillodies.com",
+  "address": {
+    "street": "",
+    "area": "",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500001",
+    "country": "India"
+  },
+  "hours": {
+    "weekday": "6:00 AM – 11:00 AM",
+    "weekend": "6:00 AM – 12:00 PM"
+  },
+  "social": {
+    "instagram": "https://instagram.com/milletmillodies",
+    "facebook": "https://facebook.com/milletmillodies",
+    "google": "https://share.google/vVjuZZCJMK2esdGee"
+  },
+  "originStory": "Started with Nellai Thatibellam (palm jaggery) tea, then expanded into millet-based tiffins rooted in Telangana village traditions.",
+  "brandFeel": ["Telangana village", "homely", "earthy", "nostalgic", "traditional", "eco-friendly", "healthy", "millets", "pure ghee", "morning tiffin aroma"]
+}

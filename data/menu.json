@@ -1,0 +1,281 @@
+{
+  "currency": "INR",
+  "lastUpdated": "2026-02-25",
+  "categories": [
+    {
+      "id": "idly-varieties",
+      "name": "Idly Varieties",
+      "icon": "idly",
+      "items": [
+        { "id": "idly-1pc", "name": "Idly", "qty": "1 Pc", "isBestseller": false },
+        { "id": "idly-2pc", "name": "Idly", "qty": "2 Pc", "isBestseller": false },
+        { "id": "idly-3pc", "name": "Plain Idly", "qty": "3 Pc", "isBestseller": false },
+        { "id": "ghee-idly", "name": "Ghee Idly", "qty": "3 Pc", "isBestseller": false },
+        { "id": "ghee-karam-idly", "name": "Ghee Karam Idly", "qty": "3 Pc", "isBestseller": true, "microStory": "Crispy podi meets warm ghee on fluffy millet idly — a morning wake-up call." },
+        { "id": "ghee-podi-idly", "name": "Ghee Podi Idly", "qty": "3 Pc", "isBestseller": false },
+        { "id": "sambar-idly", "name": "Sambar Idly", "isBestseller": false },
+        { "id": "dahi-idly", "name": "Dahi Idly", "isBestseller": false },
+        { "id": "combo-idly-4pc", "name": "Combo Idly", "qty": "4 Pc", "isBestseller": false },
+        { "id": "combo-idly-sambar", "name": "Combo Idly with Sambar", "isBestseller": false },
+        { "id": "idly-2-vada-2", "name": "Idly (2 Pc) & Vada (2 Pc)", "isBestseller": false },
+        { "id": "munagaku-podi-ghee-idly", "name": "Munagaku Podi Ghee Idly", "qty": "3 Pc", "isBestseller": true, "microStory": "Moringa-leaf podi tossed in pure ghee — earthy, nutritious, unforgettable." }
+      ]
+    },
+    {
+      "id": "venna-idly",
+      "name": "Venna (Butter) Idly",
+      "icon": "butter",
+      "items": [
+        { "id": "venna-idly", "name": "Venna Idly", "isBestseller": false },
+        { "id": "venna-karam-idly", "name": "Venna Karam Idly", "isBestseller": false },
+        { "id": "venna-podi-idly", "name": "Venna Podi Idly", "isBestseller": true, "microStory": "Fresh butter and homemade podi on steaming idly — village mornings on a plate." },
+        { "id": "venna-sambar-idly", "name": "Venna Sambar Idly", "isBestseller": false },
+        { "id": "comb-venna-idly-4pc", "name": "Comb Venna Idly", "qty": "4 Pc", "isBestseller": false },
+        { "id": "comb-venna-podi-idly-4pc", "name": "Comb Venna Podi Idly", "qty": "4 Pc", "isBestseller": false },
+        { "id": "comb-ghee-podi-idly-4pc", "name": "Comb Ghee Podi Idly", "qty": "4 Pc", "isBestseller": false },
+        { "id": "munagaku-venna-podi-idly", "name": "Munagaku Venna Podi Idly", "qty": "3 Pc", "isBestseller": false }
+      ]
+    },
+    {
+      "id": "millet-idly",
+      "name": "Millet Idly",
+      "icon": "millet",
+      "items": [
+        { "id": "millet-idly", "name": "Millet Idly", "isBestseller": false },
+        { "id": "millet-ghee-idly", "name": "Millet Ghee Idly", "isBestseller": false },
+        { "id": "millet-ghee-podi-idly", "name": "Millet Ghee Podi Idly", "isBestseller": false },
+        { "id": "millet-ghee-karam-idly", "name": "Millet Ghee Karam Idly", "qty": "3 Pc", "isBestseller": true, "microStory": "Multi-millet batter meets fiery karam and warm ghee — pure Telangana energy." },
+        { "id": "millet-karam-idly", "name": "Millet Karam Idly", "isBestseller": false },
+        { "id": "millet-venna-podi-idly", "name": "Millet Venna Podi Idly", "isBestseller": false },
+        { "id": "millet-munagaku-ghee-idly", "name": "Millet Munagaku Ghee Idly", "isBestseller": false },
+        { "id": "jonna-idly", "name": "Jonna (Sorghum) Idly", "isBestseller": false },
+        { "id": "jonna-ghee-idly", "name": "Jonna Ghee Idly", "isBestseller": false },
+        { "id": "jonna-ghee-podi-idly", "name": "Jonna Ghee Podi Idly", "isBestseller": false },
+        { "id": "jonna-sambar-idly", "name": "Jonna Sambar Idly", "isBestseller": false },
+        { "id": "jonna-venna-podi-idly", "name": "Jonna Venna Podi Idly", "isBestseller": false },
+        { "id": "ragi-idly-3pc", "name": "Ragi Idly", "qty": "3 Pc", "isBestseller": false },
+        { "id": "ragi-ghee-idly", "name": "Ragi Ghee Idly", "isBestseller": false },
+        { "id": "ragi-ghee-podi-idly", "name": "Ragi Ghee Podi Idly", "isBestseller": false },
+        { "id": "ragi-sambar-idly", "name": "Ragi Sambar Idly", "isBestseller": false },
+        { "id": "ragi-venna-idly", "name": "Ragi Venna Idly", "isBestseller": false },
+        { "id": "ragi-venna-podi-idly", "name": "Ragi Venna Podi Idly", "isBestseller": false },
+        { "id": "bajra-idly", "name": "Bajra (Pearl Millet) Idly", "isBestseller": false },
+        { "id": "bajra-ghee-idly", "name": "Bajra Ghee Idly", "isBestseller": false },
+        { "id": "bajra-ghee-podi-idly", "name": "Bajra Ghee Podi Idly", "isBestseller": false },
+        { "id": "bajra-sambar-idly", "name": "Bajra Sambar Idly", "isBestseller": false }
+      ]
+    },
+    {
+      "id": "tawa-idly",
+      "name": "Tawa Idly Specials",
+      "icon": "tawa",
+      "items": [
+        { "id": "tawa-venna-podi-idly", "name": "Tawa Venna Podi Idly", "isBestseller": true, "microStory": "Pan-crisped with butter and podi — the crunch you didn't know idly needed." },
+        { "id": "tawa-combo-venna-podi-idly", "name": "Tawa Combo Venna Podi Idly", "isBestseller": false },
+        { "id": "tawa-venna-podi-millet-idly", "name": "Tawa Venna Podi Millet Idly", "isBestseller": false },
+        { "id": "tawa-venna-podi-jonna-idly", "name": "Tawa Venna Podi Jonna Idly", "isBestseller": false },
+        { "id": "tawa-venna-podi-ragi-idly", "name": "Tawa Venna Podi Ragi Idly", "isBestseller": false }
+      ]
+    },
+    {
+      "id": "dosa-varieties",
+      "name": "Dosa Varieties",
+      "icon": "dosa",
+      "items": [
+        { "id": "dosa", "name": "Dosa", "isBestseller": false },
+        { "id": "masala-dosa", "name": "Masala Dosa", "isBestseller": false },
+        { "id": "onion-dosa", "name": "Onion Dosa", "isBestseller": false },
+        { "id": "karam-dosa", "name": "Karam Dosa", "isBestseller": false },
+        { "id": "onion-karam-dosa", "name": "Onion Karam Dosa", "isBestseller": false },
+        { "id": "ghee-dosa", "name": "Ghee Dosa", "isBestseller": false },
+        { "id": "ghee-karam-dosa", "name": "Ghee Karam Dosa", "isBestseller": true, "microStory": "Golden ghee-kissed dosa with a fiery karam punch — the breakfast champion." },
+        { "id": "ghee-karam-masala-dosa", "name": "Ghee Karam Masala Dosa", "isBestseller": false },
+        { "id": "onion-masala-dosa", "name": "Onion & Masala Dosa", "isBestseller": false },
+        { "id": "ghee-onion-masala-dosa", "name": "Ghee Onion & Masala Dosa", "isBestseller": false },
+        { "id": "upma-dosa", "name": "Upma Dosa", "isBestseller": false },
+        { "id": "ghee-upma-dosa", "name": "Ghee Upma Dosa", "isBestseller": false },
+        { "id": "ghee-upma-karam-dosa", "name": "Ghee Upma Karam Dosa", "isBestseller": false },
+        { "id": "paneer-dosa", "name": "Paneer Dosa", "isBestseller": false },
+        { "id": "paneer-masala-dosa", "name": "Paneer Masala Dosa", "isBestseller": false },
+        { "id": "paneer-masala-karam-dosa", "name": "Paneer Masala Karam Dosa", "isBestseller": false },
+        { "id": "set-dosa-3pc", "name": "Set Dosa", "qty": "3 Pc", "isBestseller": false },
+        { "id": "onion-uthappam", "name": "Onion Uthappam", "isBestseller": false }
+      ]
+    },
+    {
+      "id": "venna-dosa",
+      "name": "Venna (Butter) Dosa",
+      "icon": "butter",
+      "items": [
+        { "id": "venna-dosa", "name": "Venna Dosa", "isBestseller": true, "microStory": "Crispy dosa generously brushed with fresh white butter — simple, heavenly." },
+        { "id": "venna-karam-dosa", "name": "Venna Karam Dosa", "isBestseller": false },
+        { "id": "venna-masala-dosa", "name": "Venna Masala Dosa", "isBestseller": false },
+        { "id": "venna-upma-dosa", "name": "Venna Upma Dosa", "isBestseller": false },
+        { "id": "venna-paneer-dosa", "name": "Venna Paneer Dosa", "isBestseller": false },
+        { "id": "paneer-venna-masala-karam-dosa", "name": "Paneer Venna Masala Karam Dosa", "isBestseller": false }
+      ]
+    },
+    {
+      "id": "millet-dosa",
+      "name": "Millet Dosa",
+      "icon": "millet",
+      "items": [
+        { "id": "millet-dosa", "name": "Millet Dosa", "isBestseller": false },
+        { "id": "millet-onion-dosa", "name": "Millet Onion Dosa", "isBestseller": false },
+        { "id": "millet-masala-dosa", "name": "Millet Masala Dosa", "isBestseller": false },
+        { "id": "millet-karam-dosa", "name": "Millet Karam Dosa", "isBestseller": false },
+        { "id": "millet-ghee-dosa", "name": "Millet Ghee Dosa", "isBestseller": false },
+        { "id": "millet-ghee-karam-dosa", "name": "Millet Ghee Karam Dosa", "isBestseller": true, "microStory": "Nutty millet batter, golden ghee, fiery karam — Telangana's healthier dosa dream." },
+        { "id": "millet-upma-dosa", "name": "Millet Upma Dosa", "isBestseller": false },
+        { "id": "millet-paneer-dosa", "name": "Millet Paneer Dosa", "isBestseller": false },
+        { "id": "millet-paneer-masala-dosa", "name": "Millet Paneer Masala Dosa", "isBestseller": false },
+        { "id": "millet-paneer-karam-dosa", "name": "Millet Paneer Karam Dosa", "isBestseller": false },
+        { "id": "millet-paneer-munagaku-ghee-podi-dosa", "name": "Millet Paneer Munagaku Ghee Podi Dosa", "isBestseller": false },
+        { "id": "millet-venna-dosa", "name": "Millet Venna Dosa", "isBestseller": false },
+        { "id": "millet-venna-masala", "name": "Millet Venna Masala Dosa", "isBestseller": false },
+        { "id": "millet-venna-karam-dosa", "name": "Millet Venna Karam Dosa", "isBestseller": false },
+        { "id": "millet-venna-paneer-karam-dosa", "name": "Millet Venna Paneer Karam Dosa", "isBestseller": false }
+      ]
+    },
+    {
+      "id": "jonna-dosa",
+      "name": "Jonna (Sorghum) Dosa",
+      "icon": "jonna",
+      "items": [
+        { "id": "jonna-dosa", "name": "Jonna Dosa", "isBestseller": false },
+        { "id": "jonna-onion-dosa", "name": "Jonna Onion Dosa", "isBestseller": false },
+        { "id": "jonna-masala-dosa", "name": "Jonna Masala Dosa", "isBestseller": false },
+        { "id": "jonna-karam-dosa", "name": "Jonna Karam Dosa", "isBestseller": false },
+        { "id": "jonna-ghee-karam-dosa", "name": "Jonna Ghee Karam Dosa", "isBestseller": false },
+        { "id": "jonna-paneer-dosa", "name": "Jonna Paneer Dosa", "isBestseller": false },
+        { "id": "jonna-upma-dosa", "name": "Jonna Upma Dosa", "isBestseller": false },
+        { "id": "jonna-venna-dosa", "name": "Jonna Venna Dosa", "isBestseller": false },
+        { "id": "jonna-venna-karam-dosa", "name": "Jonna Venna Karam Dosa", "isBestseller": false },
+        { "id": "jonna-venna-masala-dosa", "name": "Jonna Venna Masala Dosa", "isBestseller": false }
+      ]
+    },
+    {
+      "id": "ragi-dosa",
+      "name": "Ragi (Finger Millet) Dosa",
+      "icon": "ragi",
+      "items": [
+        { "id": "ragi-dosa", "name": "Ragi Dosa", "isBestseller": false },
+        { "id": "ragi-onion-dosa", "name": "Ragi Onion Dosa", "isBestseller": false },
+        { "id": "ragi-masala-dosa", "name": "Ragi Masala Dosa", "isBestseller": false },
+        { "id": "ragi-karam-dosa", "name": "Ragi Karam Dosa", "isBestseller": false },
+        { "id": "ragi-ghee-karam-dosa", "name": "Ragi Ghee Karam Dosa", "isBestseller": false },
+        { "id": "ragi-paneer-dosa", "name": "Ragi Paneer Dosa", "isBestseller": false },
+        { "id": "ragi-upma-dosa", "name": "Ragi Upma Dosa", "isBestseller": false },
+        { "id": "ragi-venna-dosa", "name": "Ragi Venna Dosa", "isBestseller": false },
+        { "id": "ragi-venna-masala-dosa", "name": "Ragi Venna Masala Dosa", "isBestseller": false }
+      ]
+    },
+    {
+      "id": "bajra-dosa",
+      "name": "Bajra (Pearl Millet) Dosa",
+      "icon": "bajra",
+      "items": [
+        { "id": "bajra-dosa", "name": "Bajra Dosa", "isBestseller": false },
+        { "id": "bajra-onion-dosa", "name": "Bajra Onion Dosa", "isBestseller": false },
+        { "id": "bajra-masala-dosa", "name": "Bajra Masala Dosa", "isBestseller": false },
+        { "id": "bajra-ghee-karam-dosa", "name": "Bajra Ghee Karam Dosa", "isBestseller": false },
+        { "id": "bajra-paneer-dosa", "name": "Bajra Paneer Dosa", "isBestseller": false }
+      ]
+    },
+    {
+      "id": "pesarattu",
+      "name": "Pesarattu",
+      "icon": "pesarattu",
+      "items": [
+        { "id": "pesarattu-dosa", "name": "Pesarattu", "isBestseller": true, "microStory": "Green gram batter, crisp and protein-rich — the pride of Andhra-Telangana breakfast." },
+        { "id": "pesarattu-onion", "name": "Pesarattu Onion", "isBestseller": false },
+        { "id": "pesarattu-masala", "name": "Pesarattu Masala", "isBestseller": false },
+        { "id": "pesarattu-ghee-karam", "name": "Pesarattu Ghee Karam", "isBestseller": false },
+        { "id": "pesarattu-paneer", "name": "Pesarattu Paneer", "isBestseller": false },
+        { "id": "pesarattu-upma-dosa", "name": "Pesarattu Upma Dosa", "isBestseller": false },
+        { "id": "pesarattu-venna-dosa", "name": "Pesarattu Venna Dosa", "isBestseller": false },
+        { "id": "pesarattu-venna-upma-dosa", "name": "Pesarattu Venna Upma Dosa", "isBestseller": false },
+        { "id": "pesarattu-venna-masala-dosa", "name": "Pesarattu Venna Masala Dosa", "isBestseller": false },
+        { "id": "pesarattu-paneer-dosa", "name": "Pesarattu Paneer Dosa", "isBestseller": false }
+      ]
+    },
+    {
+      "id": "munagaku-specials",
+      "name": "Munagaku (Moringa) Specials",
+      "icon": "moringa",
+      "items": [
+        { "id": "munagaku-ghee-podi-dosa", "name": "Munagaku Ghee Podi Dosa", "isBestseller": true, "microStory": "Moringa leaf podi and pure ghee on a crisp dosa — green goodness you can taste." },
+        { "id": "munagaku-venna-podi-dosa", "name": "Munagaku Venna Podi Dosa", "isBestseller": false },
+        { "id": "munagaku-ghee-podi-idly", "name": "Munagaku Ghee Podi Idly", "qty": "3 Pc", "isBestseller": false },
+        { "id": "gongura-ghee-karam-dosa", "name": "Gongura Ghee Karam Dosa", "isBestseller": false }
+      ]
+    },
+    {
+      "id": "koralu-dosa",
+      "name": "Koralu (Foxtail Millet) Dosa",
+      "icon": "koralu",
+      "items": [
+        { "id": "koralu-onion-dosa", "name": "Koralu Onion Dosa", "isBestseller": false },
+        { "id": "koralu-masala-dosa", "name": "Koralu Masala Dosa", "isBestseller": false }
+      ]
+    },
+    {
+      "id": "chapathi",
+      "name": "Chapathi",
+      "icon": "chapathi",
+      "items": [
+        { "id": "chapathi-1pc", "name": "Chapathi (without curry)", "qty": "1 Pc", "isBestseller": false },
+        { "id": "chapathi-2pc", "name": "Chapathi (without curry)", "qty": "2 Pc", "isBestseller": false },
+        { "id": "chapathi-paneer-curry", "name": "Chapathi & Paneer Curry", "isBestseller": false },
+        { "id": "chapathi-paneer-curry-1pc", "name": "Chapathi & Paneer Curry", "qty": "1 Pc", "isBestseller": false },
+        { "id": "chapathi-paneer-butter-masala-2pc", "name": "Chapathi & Paneer Butter Masala", "qty": "2 Pc", "isBestseller": false },
+        { "id": "chapathi-shahi-paneer-2pc", "name": "Chapathi with Shahi Paneer", "qty": "2 Pc", "isBestseller": false },
+        { "id": "chapathi-rajma-curry-1pc", "name": "Chapathi with Rajma Curry", "qty": "1 Pc", "isBestseller": false },
+        { "id": "chapathi-rajma-curry-2pc", "name": "Chapathi with Rajma Curry", "qty": "2 Pc", "isBestseller": false },
+        { "id": "chapathi-chole-curry-1pc", "name": "Chapathi with Chole Curry", "qty": "1 Pc", "isBestseller": false },
+        { "id": "chapathi-chole-curry-2pc", "name": "Chapathi with Chole Curry", "qty": "2 Pc", "isBestseller": false }
+      ]
+    },
+    {
+      "id": "puri",
+      "name": "Puri",
+      "icon": "puri",
+      "items": [
+        { "id": "puri-1pc", "name": "Puri", "qty": "1 Pc", "isBestseller": false },
+        { "id": "puri-2pc", "name": "Puri", "qty": "2 Pc", "isBestseller": false },
+        { "id": "puri-3pc", "name": "Puri", "qty": "3 Pc", "isBestseller": false },
+        { "id": "wheat-puri", "name": "Wheat Puri", "isBestseller": false }
+      ]
+    },
+    {
+      "id": "vada",
+      "name": "Vada",
+      "icon": "vada",
+      "items": [
+        { "id": "vada-2pc", "name": "Vada", "qty": "2 Pc", "isBestseller": false },
+        { "id": "vada-4pc", "name": "Vada", "qty": "4 Pc", "isBestseller": false },
+        { "id": "sambar-vada", "name": "Sambar Vada", "isBestseller": false },
+        { "id": "sambar-vada-4pc", "name": "Sambar Vada", "qty": "4 Pc", "isBestseller": false },
+        { "id": "dahi-vada-3pc", "name": "Dahi Vada", "qty": "3 Pc", "isBestseller": false }
+      ]
+    },
+    {
+      "id": "pongal-upma",
+      "name": "Pongal & More",
+      "icon": "pongal",
+      "items": [
+        { "id": "millet-pongal", "name": "Millet Pongal", "isBestseller": true, "microStory": "Warm, peppery millet pongal — a wholesome hug in a bowl, Telangana style." }
+      ]
+    },
+    {
+      "id": "extras",
+      "name": "Add-ons & Extras",
+      "icon": "extras",
+      "items": [
+        { "id": "add-masala", "name": "Add Masala", "isBestseller": false },
+        { "id": "tiffins-exchange", "name": "Tiffins Exchange", "isBestseller": false },
+        { "id": "tiffins-parcel-charges", "name": "Tiffins Parcel Charges", "isBestseller": false }
+      ]
+    }
+  ]
+}

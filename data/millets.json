@@ -1,0 +1,69 @@
+{
+  "millets": [
+    {
+      "id": "foxtail",
+      "name": "Foxtail Millet",
+      "localName": "Korralu",
+      "color": "#D4A017",
+      "healthSnippets": [
+        "Rich in dietary fiber for digestive wellness",
+        "Contains iron and calcium in natural form",
+        "Low glycemic index — a smart carb choice"
+      ],
+      "traditionalUse": "Used in Telangana for morning porridge and idly batters for generations.",
+      "disclaimer": "General wellness notes, not medical advice."
+    },
+    {
+      "id": "sorghum",
+      "name": "Sorghum",
+      "localName": "Jonna",
+      "color": "#C19A6B",
+      "healthSnippets": [
+        "Naturally gluten-free and easy to digest",
+        "Good source of B vitamins and antioxidants",
+        "Helps keep you full longer with complex carbs"
+      ],
+      "traditionalUse": "Jonna roti is a Telangana staple. Now we bring it to dosa and idly batters.",
+      "disclaimer": "General wellness notes, not medical advice."
+    },
+    {
+      "id": "finger",
+      "name": "Finger Millet",
+      "localName": "Ragi",
+      "color": "#8B4513",
+      "healthSnippets": [
+        "One of the richest plant sources of calcium",
+        "High in amino acids for muscle support",
+        "Fiber-rich to support healthy digestion"
+      ],
+      "traditionalUse": "Ragi mudde and ragi java are age-old Telangana comfort foods.",
+      "disclaimer": "General wellness notes, not medical advice."
+    },
+    {
+      "id": "pearl",
+      "name": "Pearl Millet",
+      "localName": "Bajra / Sajjalu",
+      "color": "#A0A0A0",
+      "healthSnippets": [
+        "Rich in iron, supporting healthy blood levels",
+        "Contains zinc and magnesium naturally",
+        "High energy grain that sustains through mornings"
+      ],
+      "traditionalUse": "Bajra rotis have been the working farmer's fuel across Telangana.",
+      "disclaimer": "General wellness notes, not medical advice."
+    },
+    {
+      "id": "little",
+      "name": "Little Millet",
+      "localName": "Samalu",
+      "color": "#BDB76B",
+      "healthSnippets": [
+        "High in fiber and low in fat",
+        "Packed with B-complex vitamins",
+        "Light on the stomach, great for mornings"
+      ],
+      "traditionalUse": "Samalu rice was a festival-day favorite in Telangana households.",
+      "disclaimer": "General wellness notes, not medical advice."
+    }
+  ]
+}

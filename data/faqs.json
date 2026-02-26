@@ -1,0 +1,84 @@
+{
+  "sections": [
+    {
+      "id": "addaku-idly",
+      "title": "About Addaku Idly",
+      "faqs": [
+        {
+          "question": "What is Addaku Idly?",
+          "answer": "Addaku Idly is our signature millet-based idly steamed on a traditional leaf plate (addaku). The leaf imparts a subtle aroma and flavor rooted in Telangana breakfast traditions. It is eco-friendly and connects you to village-style serving."
+        },
+        {
+          "question": "Which millet is used in Addaku Idly?",
+          "answer": "We primarily use foxtail millet (korralu) combined with traditional urad dal for the perfect soft texture and naturally fermented taste."
+        },
+        {
+          "question": "Is Addaku Idly available for catering?",
+          "answer": "Yes! Addaku Idly is one of our most popular catering items. It adds an authentic, eco-friendly touch to weddings, corporate events, and family functions."
+        }
+      ]
+    },
+    {
+      "id": "millets-health",
+      "title": "Millets & Health",
+      "faqs": [
+        {
+          "question": "Are millet dosas heavy to digest?",
+          "answer": "Not at all. Millet dosas are naturally fermented, making them light on the stomach. Millets are fiber-rich and help keep you full longer without feeling heavy."
+        },
+        {
+          "question": "Are your items suitable for diabetic-friendly diets?",
+          "answer": "Millets generally have a lower glycemic index than polished rice. However, we recommend consulting your healthcare provider for specific dietary needs. We are a food business, not a medical service."
+        },
+        {
+          "question": "Do you use pure ghee?",
+          "answer": "Yes. We use pure cow ghee in all our ghee preparations. No vanaspati or artificial substitutes."
+        },
+        {
+          "question": "What is podi/karam?",
+          "answer": "Podi is a traditional Telangana dry spice powder made from roasted lentils, dried red chilies, and sesame seeds. Karam refers to the spicy version. Both are freshly ground in-house."
+        }
+      ]
+    },
+    {
+      "id": "catering",
+      "title": "Catering Services",
+      "faqs": [
+        {
+          "question": "Do you provide catering services?",
+          "answer": "Yes! We cater for weddings, corporate breakfasts, family functions, pelli pandiri events, and more. We bring the full Milletmillodies experience to your venue."
+        },
+        {
+          "question": "What is the minimum order for catering?",
+          "answer": "We can cater for groups as small as 25 people. For larger events of 500+, we offer special menu planning and pricing. Contact us for a custom quote."
+        },
+        {
+          "question": "How far in advance should I book catering?",
+          "answer": "We recommend booking at least 3-5 days in advance for small events and 1-2 weeks for large functions. Last-minute requests are considered based on availability."
+        },
+        {
+          "question": "Do you provide eco-friendly serving at catering events?",
+          "answer": "Absolutely. Our signature Addaku (leaf plate) serving is available for catering. We also use banana leaves and other eco-friendly options to minimize waste."
+        }
+      ]
+    },
+    {
+      "id": "general",
+      "title": "General",
+      "faqs": [
+        {
+          "question": "What are your operating hours?",
+          "answer": "We serve breakfast from 6:00 AM to 11:00 AM on weekdays and 6:00 AM to 12:00 PM on weekends. Early morning is when our tiffins are freshest!"
+        },
+        {
+          "question": "Do you offer home delivery?",
+          "answer": "We offer parcel/takeaway service. For delivery, you can reach us via WhatsApp to check availability in your area."
+        },
+        {
+          "question": "What is Nellai Thatibellam tea?",
+          "answer": "It is palm jaggery tea — our very first product. Made with pure palm jaggery (thatibellam) instead of refined sugar, it is naturally sweet and pairs perfectly with any tiffin."
+        }
+      ]
+    }
+  ]
+}
