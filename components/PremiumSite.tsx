@@ -604,6 +604,25 @@ export default function PremiumSite() {
 
       </main>
 
+      {/* ====== FOOTER ====== */}
+      <footer className="w-full py-5 bg-text text-center space-y-2">
+        <div className="flex justify-center gap-6 text-xs text-white/30">
+          <a href="/privacy-policy" className="hover:text-white/60 transition-colors">Privacy Policy</a>
+          <a href="/terms" className="hover:text-white/60 transition-colors">Terms of Service</a>
+        </div>
+        <p className="text-xs text-white/40 tracking-widest uppercase">
+          Powered by{' '}
+          <a
+            href="https://vyomaai.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-gold/60 hover:text-gold transition-colors"
+          >
+            VyomaAI Studios
+          </a>
+        </p>
+      </footer>
+
       {/* ====== MENU MODAL ====== */}
       {activeModal && (
         <div
