@@ -156,8 +156,8 @@ export default function PrivacyPolicy() {
             </li>
             <li>
               <strong>Email:</strong>{' '}
-              <a href="mailto:hello@milletmelodies.com" className="text-[#8B4513] hover:underline">
-                hello@milletmelodies.com
+              <a href="mailto:svadhistamgroup@gmail.com" className="text-[#8B4513] hover:underline">
+                svadhistamgroup@gmail.com
               </a>
             </li>
             <li>

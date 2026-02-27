@@ -139,7 +139,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               description:
                 'Authentic Telangana millet breakfast — Addaku Idly, millet dosa, traditional podi, pure ghee. Healthy morning tiffin rooted in village traditions. Catering for weddings & events.',
               telephone: '+917075927006',
-              email: 'hello@milletmelodies.com',
+              email: 'svadhistamgroup@gmail.com',
               address: {
                 '@type': 'PostalAddress',
                 streetAddress: 'PLOT NO 48, Miyapur Rd, opp. VNR Vignana Jyothi Engineering College',
