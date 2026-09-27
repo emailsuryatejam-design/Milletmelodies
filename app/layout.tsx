@@ -1,6 +1,9 @@
 import type { Metadata, Viewport } from 'next';
 import { Playfair_Display, Lato } from 'next/font/google';
+import Script from 'next/script';
 import './globals.css';
+
+const GA_MEASUREMENT_ID = 'G-5BS3JC2DV0';
 
 const playfair = Playfair_Display({
   subsets: ['latin'],
@@ -303,6 +306,21 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <link rel="apple-touch-icon" href="/logo.png" />
       </head>
       <body className="font-sans bg-[#F9F6F0] text-[#2C1E16] antialiased">
+        {/* Google Analytics 4 */}
+        <Script
+          src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}
+          strategy="afterInteractive"
+        />
+        <Script id="ga4-init" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', '${GA_MEASUREMENT_ID}', {
+              page_path: window.location.pathname,
+            });
+          `}
+        </Script>
         {children}
       </body>
     </html>
